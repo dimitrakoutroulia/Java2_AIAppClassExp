@@ -24,7 +24,7 @@ public class MovieList {
     public void displayMovies() {
         System.out.println("Movies in the list: " + movies);
     }
-
+    // Γεια
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
 
