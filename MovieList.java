@@ -55,4 +55,4 @@ public class MovieList {
         movieList.displayMovies();
         in.close();
     } // Τέλος της main 
-} // Τέλος της κλάσης
+} // Τέλος της κλάσης MovieList
